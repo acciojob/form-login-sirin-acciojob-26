@@ -1,5 +1,5 @@
+
 function getFormvalue() {
-    //Write your code here
     // Get the values of the First and Last name from the form
     var firstName = document.getElementById("firstName").value;
     var lastName = document.getElementById("lastName").value;
@@ -9,4 +9,4 @@ function getFormvalue() {
 }
 
 
-}
+
